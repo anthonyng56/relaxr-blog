@@ -1,0 +1,147 @@
+.clearfix::after {
+  content: "";
+  height: 0;
+  visibility: hidden;
+  clear: both;
+  display: block;
+}
+.everything {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #f0efef;
+	color: #033048;
+}
+header {
+	background-color: #033048;
+	height: 100px;
+}
+h1 {
+	font-size: 50px;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+	font-weight: 800;
+	padding: 20px 20px 20px 100px;
+	float: left;
+}
+nav {
+	padding: 40px 40px 40px 700px;
+}
+.top {
+	color: #f9e42e;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+}
+a {
+	text-decoration: none;
+	padding: 10px;
+}
+section {
+	width: 55%;
+	padding: 60px 70px 100px 100px;
+	float: left;
+}
+img {
+	width: 98%;
+	padding-bottom: 30px;
+}
+h2 {
+	font-size: 40px;
+	padding-bottom: 30px;
+	font-weight: 600;
+}
+p {
+	font-size: 20px;
+}
+.capletter::first-letter {
+	font-size: 200%;
+	float: left;
+	font-weight: 600;
+	padding-right: 4px;
+	padding-bottom: 4px;
+}
+.readmore {
+	padding-top: 30px;
+	font-weight: bold;
+	float: right;
+}
+.learnmore {
+	font-weight: bold;
+	float: left;
+}
+.ad {
+	width: 31%;
+}
+aside {
+	padding: 60px 100px 20px 200px;
+}
+h3 {
+	font-size: 30px;
+	font-weight: 800;
+	padding-bottom: 30px;
+}
+.aside {
+	padding-top: 30px;
+}
+li {
+	padding-left: 0;
+	padding-bottom: 15px;
+	font-size: 20px;
+	font-weight: 600;
+	color: #033048;
+}
+a {
+	color: #033048;
+}
+.img {
+	width: 3%;
+	margin-left: 600px;
+
+}
+.imgs {
+	width: 1%;
+}
+.quote {
+	background-image: url("../images/testimonial_bg.jpg");
+	color: white;
+	font-size: 30px;
+	font-style: italic;
+	padding: 70px 350px 70px 350px;
+}
+strong {
+	font-weight: 600;
+	font-style: normal;
+	margin: 190px;
+}
+.sign {
+	background-color: #f9e42e;
+	padding: 50px;
+	text-align: center;
+}
+.last {
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	background-color: #033048;
+}
+footer {
+	background-color: #121212;
+
+}
+h4 {
+	color: #f9e42e;
+	font-size: 50px;
+	font-weight: 800;
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 20px;
+}
+.media {
+	padding: 20px;
+	padding-bottom: 80px;
+}
+.copyright {
+	color: white;
+	font-size: 20px;
+	font-weight: 600;
+	padding-bottom: 80px;
+	margin-left: 570px;
+}
